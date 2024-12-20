@@ -1,2 +1,2 @@
 # Biodiversity-Project
-Investigating patters between categorical variables with Python in Jupyter Notebook
+Investigating patterns between categorical variables in National Park Biodiversity data with Python in Jupyter Notebook
